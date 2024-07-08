@@ -18,3 +18,4 @@ end
 animal = Animal.new("Buddy", "Dog")
 puts animal.display
 # puts animal.secret # This will raise an error
+
